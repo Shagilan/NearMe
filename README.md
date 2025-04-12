@@ -187,12 +187,15 @@ contact number:6789543765
 
 ## OUTPUT
 
-![alt text](<Screenshot (32).png>)
-![alt text](steffi/mapapp/static/2.png)
-![alt text](steffi/mapapp/static/3.png)
-![alt text](steffi/mapapp/static/4.png)
-![alt text](steffi/mapapp/static/5.png)
-![alt text](steffi/mapapp/static/6.png)
+![image](https://github.com/user-attachments/assets/3cc80b2a-f18d-4037-8fa3-18e6c4ec4304)
+![image](https://github.com/user-attachments/assets/71e3ab76-0906-414b-9edd-582dac121da7)
+![image](https://github.com/user-attachments/assets/5ebe4f16-94a5-4e46-a59e-ea67f605bac3)
+![image](https://github.com/user-attachments/assets/d8e3ca47-ef01-4638-8b9e-f801fc4db396)
+![image](https://github.com/user-attachments/assets/5245fb23-f657-4c9e-9d74-4cb756d2a67b)
+![image](https://github.com/user-attachments/assets/399ac573-dacd-4642-851e-41ace02ab446)
+
+
+
 
 
 ## RESULT
